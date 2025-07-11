@@ -1,6 +1,6 @@
 {
-    "appLoadUrlVersion":"1",
-    "appLoadUrl": "https://lcadooarsmountain.org/",
+    "appLoadUrlVersion":"2",
+    "appLoadUrl": "https://app.lcadooarsmountain.org/",
     "redirectUrl": "https://lcadooarsmountain.org/redirect/",
     "externalUrls": [
         "https://play.google.com/",
