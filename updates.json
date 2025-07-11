@@ -1,5 +1,5 @@
 {
-    "appLoadUrlVersion":"2",
+    "appLoadUrlVersion":"3",
     "appLoadUrl": "https://app.lcadooarsmountain.org/",
     "redirectUrl": "https://lcadooarsmountain.org/redirect/",
     "externalUrls": [
@@ -8,7 +8,8 @@
         "https://lcadooarsmountain.org/",
         "https://lcadooarsmountain.org/app/",
         "https://lcadooarsmountain.org/redirect/",
-        "https://songbook.lcadooarsmountain.org/app/redirect/"
+        "https://songbook.lcadooarsmountain.org/app/redirect/",
+        "https://google.com"
     ],
     "version": {
         "latestVersion": "1.2.4",
